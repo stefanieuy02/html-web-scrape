@@ -2,7 +2,7 @@
 
 Hi there!
 
-My goal for this project was to scrape a table from the Bank of Central African States website and convert it into a pandas DataFrame (so it's readable/digestable). 
+My goal for this project was to scrape a table from the Bank of Central African States website and convert it into a pandas DataFrame (so it's readable/digestable). Here is the [website link](https://www.beac.int) if you want to take a look.
 
 Below is the table in question marked with a giant red circle:
 
