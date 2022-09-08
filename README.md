@@ -6,3 +6,5 @@ My goal for this project was to scrape a table from the Bank of Central African 
 
 Here is the table in question. 
 
+![circle](/images/giant_red_circle.pdf)
+
