@@ -8,7 +8,7 @@ Below is the table in question marked with a giant red circle:
 
 ![circle](/images/giant_red_circle.jpg)
 
-I created two functions, one to scrape the raw data, and other to convert the data into a DataFrame.
+I created two functions, one to scrape the raw HTML data, and other to manipulate and convert the data into a DataFrame.
 
 So, below is the final product, a clean DataFrame with the extracted data!
 
